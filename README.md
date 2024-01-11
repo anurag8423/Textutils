@@ -4,3 +4,6 @@
 1. clone the repository
 2. Open it with a code editor and enter npm i in the root directory of the react app.
 3. Then enter npm start to view the appliaction on development server.
+
+## To view the publicly hosted page follow the below given link
+https://textpluswithme.netlify.app/
